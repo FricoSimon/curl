@@ -4,3 +4,7 @@ curl -X METHOD ROUTE OPTIONAL
 
 curl -X POST -H "Content-Type: application/json" -d "{\"name\": \"Kopi Tubruk\"}" https://coffee-api.dicoding.dev/transactions -i
 curl -X METHOD -H HEADER -D DATA ROUTE OPTIONAL
+
+// GLOSARIUM
+HTTP verb / method (GET,POST,DELETE,PUT)
+HTTP response / status code (100-500)
